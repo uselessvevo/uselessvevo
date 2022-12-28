@@ -39,10 +39,10 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
         </tr>
                   <tr>
             <td>
-                🐍
+                📟
             </td>
             <td>
-                <a href="https://github.com/uselessvevo/hireme.bot">hireme.bot/client</a>
+                <a href="https://github.com/uselessvevo/hireme.bot">hireme.bot</a>
             </td>
             <td>
                 hirememe telegram bot client
@@ -53,7 +53,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 🐍
             </td>
             <td>
-                <a href="https://github.com/uselessvevo/hireme.scrapper">fuse-sheets</a>
+                <a href="https://github.com/uselessvevo/hireme.scrapper">hireme.scrapper</a>
             </td>
             <td>
                 hireme web-scrapper
