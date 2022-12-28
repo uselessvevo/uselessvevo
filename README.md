@@ -39,7 +39,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
         </tr>
                   <tr>
             <td>
-                📟
+                🐍
             </td>
             <td>
                 <a href="https://github.com/uselessvevo/hireme.bot">hireme.bot</a>
