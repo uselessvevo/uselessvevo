@@ -45,7 +45,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 <a href="https://github.com/uselessvevo/hireme.bot">hireme.bot</a>
             </td>
             <td>
-                hirememe telegram bot client
+                hireme telegram bot client
             </td>
         </tr>
                   <tr>
