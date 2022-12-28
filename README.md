@@ -9,7 +9,7 @@ My stack:
 * 💫 ReactJS
 
 <br><br>
-I will be very happy if You will join me to create something ✨ *beatiful* ✨
+I will be very happy if You will join me to create something ✨ *beautiful* ✨
 
 <details><summary>My projects</summary>
 <p>
