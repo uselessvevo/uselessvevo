@@ -1,16 +1,64 @@
-### Hi there 👋
+### 👋 Hello!
+I'm Ivanov Cyril and I am full-stack developer that live in Tymen, Russia
 
-<!--
-**uselessvevo/uselessvevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My stack:
+* 🔮 C#
+* 🐍 Python
+* 🦄 Django
+* 🌠 Aiohttp
+* 💫 ReactJS
 
-Here are some ideas to get you started:
+<br><br>
+I will be very happy if You will join me to create something ✨ *beatiful* ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details><summary>My projects</summary>
+<p>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                🐍
+            </td>
+            <td>
+                <a href="https://github.com/uselessvevo/fuse-box">fusebox</a>
+            </td>
+            <td>
+                minimalistic library for data processing and validation
+            </td>
+         </tr>
+          <tr>
+            <td>
+                💫
+            </td>
+            <td>
+                <a href="https://github.com/uselessvevo/fuse-sheets">fuse-sheets</a>
+            </td>
+            <td>
+                minimalistic web app for xls/xlsx file upload
+            </td>
+        </tr>
+                  <tr>
+            <td>
+                📟
+            </td>
+            <td>
+                <a href="https://github.com/uselessvevo/hireme.bot">hireme.bot/client</a>
+            </td>
+            <td>
+                hirememe telegram bot client
+            </td>
+        </tr>
+                  <tr>
+            <td>
+                🤖
+            </td>
+            <td>
+                <a href="https://github.com/uselessvevo/hireme.scrapper">fuse-sheets</a>
+            </td>
+            <td>
+                hireme web-scrapper
+            </td>
+        </tr>
+    </tbody>
+  </table>
+</p>
