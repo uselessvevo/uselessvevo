@@ -20,7 +20,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 🐍
             </td>
             <td>
-                <a href="https://github.com/uselessvevo/fuse-box">fusebox</a>
+                <a href="https://github.com/uselessvevo/fuse-box">fuse-box</a>
             </td>
             <td>
                 minimalistic library for data processing and validation
