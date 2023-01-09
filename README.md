@@ -48,7 +48,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 hireme telegram bot client
             </td>
         </tr>
-                  <tr>
+        <tr>
             <td>
                 🐍
             </td>
@@ -57,6 +57,17 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
             </td>
             <td>
                 hireme web-scrapper
+            </td>
+        </tr>
+        <tr>
+            <td>
+                🎵
+            </td>
+            <td>
+                <a href="https://github.com/uselessvevo/cloudyff">cloudyff</a>
+            </td>
+            <td>
+                an experimental audio/video converter
             </td>
         </tr>
     </tbody>
