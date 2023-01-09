@@ -67,7 +67,18 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 <a href="https://github.com/uselessvevo/cloudyff">cloudyff</a>
             </td>
             <td>
-                an experimental audio/video converter
+                ffmpeg python wrapper
+            </td>
+        </tr>
+        <tr>
+            <td>
+                🎵
+            </td>
+            <td>
+                <a href="https://github.com/uselessvevo/cloudyff-app">cloudyff-app</a>
+            </td>
+            <td>
+                cloudyff gui
             </td>
         </tr>
     </tbody>
