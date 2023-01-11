@@ -64,7 +64,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 🎵
             </td>
             <td>
-                <a href="https://github.com/uselessvevo/cloudyff">cloudyff</a>
+                <a href="https://github.com/uselessvevo/ffbox">ffbox</a>
             </td>
             <td>
                 ffmpeg python wrapper
@@ -75,7 +75,7 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 🎵
             </td>
             <td>
-                <a href="https://github.com/uselessvevo/cloudyff-app">cloudyff-app</a>
+                <a href="https://github.com/uselessvevo/cloudyff">cloudyff</a>
             </td>
             <td>
                 cloudyff gui
