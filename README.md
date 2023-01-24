@@ -1,5 +1,5 @@
 ### 👋 Hello!
-I'm Ivanov Cyril and I am full-stack developer that live in Tymen, Russia
+Hi! I'm Ivanov Cyril. I'm a fullstack developer.
 
 My stack:
 * 🔮 C#
