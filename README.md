@@ -75,10 +75,10 @@ I will be very happy if You will join me to create something ✨ *beautiful* ✨
                 🎵
             </td>
             <td>
-                <a href="https://github.com/uselessvevo/cloudyff">cloudyff</a>
+                <a href="https://github.com/uselessvevo/cloudyff">pie-audio</a>
             </td>
             <td>
-                cloudyff gui
+                an experimental audio converter
             </td>
         </tr>
     </tbody>
